@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1669988129 source:c:\users\sassi\desktop\programmation c\projet ii\gestion de stock\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1669993262 c:\users\sassi\desktop\programmation c\projet ii\gestion de stock\menu.h
+
+1671035041 source:c:\users\moham\downloads\gestion de stock\gestion de stock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	"structure.h"
+	"menu.h"
+	"ajouter.h"
+	"suppression.h"
+	"affichage.h"
+	"vendreStat.h"
+
+1670078643 c:\users\moham\downloads\gestion de stock\gestion de stock\bib.h
+
+1670974101 c:\users\moham\downloads\gestion de stock\gestion de stock\menu.h
+
+1670972342 c:\users\moham\downloads\gestion de stock\gestion de stock\ajouter.h
+
+1670362253 c:\users\moham\downloads\gestion de stock\gestion de stock\structure.h
+
+1670972941 c:\users\moham\downloads\gestion de stock\gestion de stock\affichage.h
+
+1670974242 c:\users\moham\downloads\gestion de stock\gestion de stock\suppression.h
+
+1670976092 c:\users\moham\downloads\gestion de stock\gestion de stock\vendrestat.h
+
+1671096478 source:c:\users\moham\desktop\gestion de stock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	"structure.h"
+	"menu.h"
+	"ajouter.h"
+	"suppression.h"
+	"affichage.h"
+	"vendreStat.h"
+
+1670362253 c:\users\moham\desktop\gestion de stock\structure.h
+
+1671111425 c:\users\moham\desktop\gestion de stock\menu.h
+
+1670972342 c:\users\moham\desktop\gestion de stock\ajouter.h
+
+1671110216 c:\users\moham\desktop\gestion de stock\suppression.h
+
+1670972941 c:\users\moham\desktop\gestion de stock\affichage.h
+
+1670976092 c:\users\moham\desktop\gestion de stock\vendrestat.h
+
